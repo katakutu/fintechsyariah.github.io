@@ -35,7 +35,7 @@ body {
     margin-top: 20px;
 }
 /* Jumbotron */
-#jumbotron1 .jumbotron {
+#jumbotron1 {
     padding-top: 220px;
     padding-bottom: 200px;
     margin-bottom: 0;
@@ -44,6 +44,10 @@ body {
     background-size: cover;
     color: white;
 }
+#jumbotron2 .col-md-6:last-child {
+    padding-left: 100px;
+}
+/*Button Custom*/
 .btn {
     padding: 10px 30px;
     font-size: 14px;
@@ -57,10 +61,18 @@ body {
     background-color: #158C83;
     border-color: #1BB6AD;
 }
+
+.btn-primary:active {
+    background-color: #158C83;
+    border-color: #1BB6AD;
+}
+.btn-primary:visited {
+    background-color: #1BB6AD;
+    border-color: #1BB6AD;
+}
 .btn-default {
     background-color: transparent;
     color: white;
-
 }
 /* Page Content*/
 
@@ -77,8 +89,14 @@ body {
 /* Footer Styles */
 
 footer {
-    margin: 50px 0;
+    margin: 50px 0 0 0;
+    padding: 50px 0;
+    background-color: #095E94;
+    color: #fff;    
+}
 
+footer hr{
+    border: 1px solid #0B699E;    
 }
 
 /* Responsive Styles */
