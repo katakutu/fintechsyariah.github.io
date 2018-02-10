@@ -104,6 +104,22 @@ body {
     background-size: cover;
     color: #fff;
 }
+/*Hover*/
+a:link {
+    color: #fff;
+}
+a:visited {
+    color: #fff;
+}
+.fa-facebook-square:hover {
+    color: #2969B0;
+}
+.fa-instagram:hover {
+    color: #553982;
+}
+.fa-youtube:hover {
+    color: #B8312F;
+}
 /*Button Custom*/
 .btn {
     padding: 10px 30px;
