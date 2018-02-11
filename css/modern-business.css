@@ -9,6 +9,8 @@
 html,
 body {
     height: 100%;
+    background-color: #F3F5F9;
+    color: #3A4551;
 }
 
 body {
@@ -34,24 +36,121 @@ body {
 .navbar-toggle {
     margin-top: 20px;
 }
+#subtittle p,
+#subtittle2 p,
+#subtittle4 p
+{ 
+    text-align: justify; 
+    font-size: 16px; 
+    line-height: 2;
+    margin: 50px auto;
+}
+#subtittle {
+    padding-top: 50px;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 100px;
+    background-color: #fff;
+}
+#subtittle2 {
+    background-color: #fff;
+    padding-top: 50px;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#subtittle3 {
+    background-color: #fff;
+    padding-top:50px;
+    padding-bottom: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#subtittle3 p {
+    font-size: 16px; 
+    line-height: 2;
+    margin: 50px auto;
+}
+
+#subtittle4 {
+    background-color: #F3F5F9;
+    padding-top:50px;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#subtittle5 {
+    background-color: #F3F5F9;
+    padding-top:50px;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#subtittle5 p {
+    font-size: 16px; 
+    line-height: 2;
+    margin: 50px auto;
+}
 /* Jumbotron */
+.jumbotron {
+    background-color: #fff;
+}
 #jumbotron1 {
     padding-top: 220px;
-    padding-bottom: 164px;
+    padding-bottom: 200px;
     margin-bottom: 0;
-    background-color: white;
+    background-color: #fff;
     background-image: url("../img/jumbotron1.jpg");
     background-size: cover;
-    color: white;
+    color: #fff;
 }
 #jumbotron2 .col-md-6:last-child {
     padding-left: 100px;
+    background-color: #fff;
+}
+#jumboabout1 {
+    padding-top: 220px;
+    padding-bottom: 200px;
+    margin-bottom: 0;
+    background-color: #fff;
+    background-image: url("../img/jumboabout1.jpg");
+    background-size: cover;
+    color: #fff;
+}
+.panel-default>.panel-heading {
+    background-color: #fff;
+}
+
+/*Hover*/
+footer a:link {
+    color: #fff;
+}
+footer a:visited {
+    color: #fff;
+}
+.fa-facebook-square {
+    margin-right: 20px;
+}
+.fa-facebook-square:hover {
+    color: #2969B0;
+}
+.fa-instagram {
+    margin-right: 20px;
+}
+.fa-instagram:hover {
+    color: #553982;
+}
+.fa-youtube {
+    margin-right: 20px;
+}
+.fa-youtube:hover {
+    color: #B8312F;
 }
 /*Button Custom*/
 .btn {
     padding: 10px 30px;
     font-size: 14px;
-    margin-right: 20px;
+    margin-right: 0px;
 }
 .btn-primary {
     background-color: #1BB6AD;
@@ -72,7 +171,7 @@ body {
 }
 .btn-default {
     background-color: transparent;
-    color: white;
+    color: #fff;
 }
 /* Page Content*/
 
@@ -80,6 +179,9 @@ body {
     padding: 20px 150px;
 }
 
+#post {
+    margin: 80px auto;
+}
 /* 404 Page Styles */
 
 .error-404 {
@@ -90,7 +192,8 @@ body {
 
 footer {
     margin: 50px 0 0 0;
-    padding: 50px 0;
+    padding-top: 50px;
+    padding-bottom: 10px;
     background-color: #095E94;
     color: #fff;    
 }
