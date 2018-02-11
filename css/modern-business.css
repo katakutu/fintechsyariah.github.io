@@ -10,6 +10,7 @@ html,
 body {
     height: 100%;
     background-color: #F3F5F9;
+    color: #3A4551;
 }
 
 body {
@@ -78,6 +79,18 @@ body {
     margin-top: 0;
     margin-bottom: 0;
 }
+#subtittle5 {
+    background-color: #F3F5F9;
+    padding-top:50px;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#subtittle5 p {
+    font-size: 16px; 
+    line-height: 2;
+    margin: 50px auto;
+}
 /* Jumbotron */
 .jumbotron {
     background-color: #fff;
@@ -104,18 +117,31 @@ body {
     background-size: cover;
     color: #fff;
 }
+.panel-default>.panel-heading {
+    background-color: #fff;
+}
+
 /*Hover*/
-a:link {
+footer a:link {
     color: #fff;
 }
-a:visited {
+footer a:visited {
     color: #fff;
+}
+.fa-facebook-square {
+    margin-right: 20px;
 }
 .fa-facebook-square:hover {
     color: #2969B0;
 }
+.fa-instagram {
+    margin-right: 20px;
+}
 .fa-instagram:hover {
     color: #553982;
+}
+.fa-youtube {
+    margin-right: 20px;
 }
 .fa-youtube:hover {
     color: #B8312F;
@@ -124,7 +150,7 @@ a:visited {
 .btn {
     padding: 10px 30px;
     font-size: 14px;
-    margin-right: 20px;
+    margin-right: 0px;
 }
 .btn-primary {
     background-color: #1BB6AD;
