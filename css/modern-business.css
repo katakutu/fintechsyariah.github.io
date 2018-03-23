@@ -39,9 +39,9 @@ body {
 #subtittle p,
 #subtittle2 p,
 #subtittle4 p
-{ 
-    text-align: justify; 
-    font-size: 16px; 
+{
+    text-align: center;
+    font-size: 16px;
     line-height: 2;
     margin: 50px auto;
 }
@@ -67,17 +67,22 @@ body {
     margin-bottom: 0;
 }
 #subtittle3 p {
-    font-size: 16px; 
+    font-size: 16px;
     line-height: 2;
     margin: 50px auto;
 }
-
 #subtittle4 {
     background-color: #F3F5F9;
     padding-top:50px;
     padding-bottom: 0;
     margin-top: 0;
     margin-bottom: 0;
+}
+#subtittle4 p {
+    text-align: justify;
+    font-size: 16px;
+    line-height: 2;
+    margin: 50px auto;
 }
 #subtittle5 {
     background-color: #F3F5F9;
@@ -87,7 +92,7 @@ body {
     margin-bottom: 0;
 }
 #subtittle5 p {
-    font-size: 16px; 
+    font-size: 16px;
     line-height: 2;
     margin: 50px auto;
 }
@@ -120,6 +125,11 @@ body {
 .panel-default>.panel-heading {
     background-color: #fff;
 }
+#subtittle3 ul {
+  text-align: justify;
+  font-size: 16px;
+  line-height: 2;
+}
 
 /*Hover*/
 footer a:link {
@@ -127,6 +137,9 @@ footer a:link {
 }
 footer a:visited {
     color: #fff;
+}
+footer p:first-child {
+  margin-right: 10px;
 }
 .fa-facebook-square {
     margin-right: 20px;
@@ -191,15 +204,15 @@ footer a:visited {
 /* Footer Styles */
 
 footer {
-    margin: 50px 0 0 0;
+    margin: 0;
     padding-top: 50px;
     padding-bottom: 10px;
     background-color: #095E94;
-    color: #fff;    
+    color: #fff;
 }
 
 footer hr{
-    border: 1px solid #0B699E;    
+    border: 1px solid #0B699E;
 }
 
 /* Responsive Styles */
