@@ -69,50 +69,66 @@
 
     <!-- Heder Jumbotron -->
     <header>
-        <div class="jumbotron" id="jumbotron1">
-        <div class="container">
-            <h2>Kolaborasi Ekosistem Teknologi Keuangan</h2>
+        <div class="jumbotron" id="jumboabout1">
+        <!-- <div class="container">
+            <h3>Kolaborasi Ekosistem Teknologi Keuangan</h3>
             <p>dari perusahaan Indonesia untuk masyarakat Indonesia</p>
             <br><br>
-            <p><a class="btn btn-primary btn-lg" style="padding: 10px 30px; margin-right: 20px;" href="about" role="button">Learn more</a>  <a class="btn btn-default btn-lg" style="padding: 10px 30px; margin-right: 20px;" href="membership" role="button">Apply for Membership</a></p>
-        </div>
+            <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>  <a class="btn btn-default btn-lg" href="#" role="button">Apply for Membership</a></p>
+        </div> -->
         </div>
     </header>
     <!-- Page Content -->
-    <!-- Upcoming Event -->
-    <div class="jumbotron" id="jumbotron2">
-        <div class="container">
-        <div class="col-md-12">
-            <div class="col-md-6">
-                <h3><strong>UPCOMING EVENT</strong></h3>
-                <p>Coming Soon</p>
-                <!-- <div class="row">
-                    <div class="col-md-1"><h5><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span></h5></div>
-                    <div class="col-md-11"><h5> Coming Soon </h5></div>
-                </div>
-                 <div class="row">
-                    <div class="col-md-1"><h5><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span></h5></div>
-                    <div class="col-md-11"><h5> Coming Soon </h5></div>
-                </div>
-                 <div class="row">
-                    <div class="col-md-1"><h5><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></h5></div>
-                    <div class="col-md-11"><h5> Coming Soon </h5></div>
-                </div> -->
-                <br>
-                <p><a class="btn btn-primary btn-lg" href="#" role="button">Coming Soon</a>
-            </div>
-            <div class="col-md-6"><img src="img/event1.png" alt=""></div>
-        </div>
-        </div>
-    </div>
     <!-- Count   -->
-    <div class="container">
+    <div class="container-fluid" id="subtittle2">
+      <div class="col-md-8 col-md-offset-2 text-center">
+      <h3><strong>BERGABUNG MENJADI ANGGOTA</strong></h3>
+      <hr width="10%" style="border: 2px solid #1BB6AD">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, neque corrupti quod. Veritatis itaque sapiente impedit omnis culpa quaerat vitae velit eligendi odio doloremque illum corporis blanditiis adipisci, vel modi? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, neque corrupti quod. Veritatis itaque sapiente impedit omnis culpa quaerat vitae velit eligendi odio doloremque illum corporis blanditiis adipisci,</p>
+    <a class="btn btn-primary btn-lg" href="apply" role="button">Apply for Membership</a>
+    <br><br><br><br>
+    </div>
+    </div>
+     <div class="container-fluid" id="subtittle5">
+      <div class="col-md-8 col-md-offset-2 text-center">
+      <h3><strong>MANFAAT MENJADI ANGGOTA</strong></h3>
+      <hr width="10%" style="border: 2px solid #1BB6AD">
+       <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, neque corrupti quod. Veritatis itaque sapiente impedit omnis culpa quaerat vitae velit eligendi odio doloremque illum corporis blanditiis adipisci, vel modi? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad tempore iste dolor veritatis, odit cumque nisi doloribus sed aliquid excepturi blanditiis aut hic harum consequuntur, labore repellat distinctio voluptas nobis.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      <br><br>
+            <div class="row">
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis pariatur ea enim illo itaque corporis, eos facere quibusdam ratione excepturi vel beatae ducimus voluptate maxime harum! Voluptatibus quibusdam velit in.</p></div>
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis at recusandae minima vel itaque similique, fugiat quos, quo dolore beatae ratione quasi suscipit! Error optio, ea consequatur modi labore provident.</p></div>
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis quae corporis quam illo recusandae praesentium aut nihil ad id. Exercitationem ipsa soluta recusandae sed minus officiis, quod laborum! Quia, nisi.</p></div>
+            </div>
+        <br><br>
+            <div class="row">
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis pariatur ea enim illo itaque corporis, eos facere quibusdam ratione excepturi vel beatae ducimus voluptate maxime harum! Voluptatibus quibusdam velit in.</p></div>
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis at recusandae minima vel itaque similique, fugiat quos, quo dolore beatae ratione quasi suscipit! Error optio, ea consequatur modi labore provident.</p></div>
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis quae corporis quam illo recusandae praesentium aut nihil ad id. Exercitationem ipsa soluta recusandae sed minus officiis, quod laborum! Quia, nisi.</p></div>
+            </div>
+      </div>
+    </div>
+    <div class="container-fluid" id="subtittle3">
+      <div class="col-md-8 col-md-offset-2 text-center">
+      <h3><strong>JENIS KEANGGOTAAN</strong></h3>
+      <hr width="10%" style="border: 2px solid #1BB6AD">
+      <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, neque corrupti quod. Veritatis itaque sapiente impedit omnis culpa quaerat vitae velit eligendi odio doloremque illum corporis blanditiis adipisci, vel modi? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad tempore iste dolor veritatis, odit cumque nisi doloribus sed aliquid excepturi blanditiis aut hic harum consequuntur, labore repellat distinctio voluptas nobis.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      <br><br>
+            <div class="row">
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis pariatur ea enim illo itaque corporis, eos facere quibusdam ratione excepturi vel beatae ducimus voluptate maxime harum! Voluptatibus quibusdam velit in.</p></div>
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis at recusandae minima vel itaque similique, fugiat quos, quo dolore beatae ratione quasi suscipit! Error optio, ea consequatur modi labore provident.</p></div>
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis quae corporis quam illo recusandae praesentium aut nihil ad id. Exercitationem ipsa soluta recusandae sed minus officiis, quod laborum! Quia, nisi.</p></div>
+            </div>
+        <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, neque corrupti quod. Veritatis itaque sapiente impedit omnis culpa quaerat vitae velit eligendi odio doloremque illum corporis blanditiis adipisci, vel modi? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad tempore iste dolor veritatis, odit cumque nisi doloribus sed aliquid excepturi blanditiis aut hic harum consequuntur, labore repellat distinctio voluptas nobis.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      </div>
+    </div>
+    <div class="container" id="subtittle4">
       <div class="col-md-8 col-md-offset-2 text-center">
       <h3>Kami Bermitra dengan regulator dan seluruh ekosistem industri untuk mendorong masa depan keuangan berorientasi teknologi</h3>
       <hr width="20%" style="border: 2px solid #1BB6AD">
       </div>
     </div>
-    <!-- <div class="container text-center" id="status">
+    <div class="container text-center" id="status">
         <div class="col-md-12">
             <div class="row">
                 <div class="col-md-4"><h1 style="font-size: 60px">100</h1><h3>Perusahaan  Startup</h3></div>
@@ -120,7 +136,7 @@
                 <div class="col-md-4"><h1 style="font-size: 60px">4</h1><h3>Mitra Asosiasi</h3></div>
             </div>
         </div>
-    </div> -->
+    </div>
     <div class="container" id="post">
     <div class="row">
         <div class="col-md-12">
@@ -178,20 +194,20 @@
             </a>
             </div>
             <div class="col-xs-6 col-md-3">
-            <a href="https://kapitalboost.com/" target="_blank" class="thumbnail">
-              <img src="img/logo/kapitalboost.jpg" alt="">
+            <a href="https://www.xedeka.com" target="_blank" class="thumbnail">
+              <img src="img/logo/xedeka.jpg" alt="">
             </a>
             </div>
             <div class="col-xs-6 col-md-3">
-            <a href="https://www.ethiscrowd.com/" target="_blank" class="thumbnail">
-              <img src="img/logo/ethiscrowd.jpg" alt="">
+            <a href="http://www.tamasia.co.id/" target="_blank" class="thumbnail">
+              <img src="img/logo/tamasia.jpg" alt="">
             </a>
             </div>
-            <div class="col-xs-6 col-md-3">
-            <a href="https://www.danakoo.id/menu/page/syariah" class="thumbnail">
-              <img src="img/logo/danakoosyariah.jpg" alt="">
+            <!-- <div class="col-xs-6 col-md-3">
+            <a href="#" class="thumbnail">
+              <img src="img/logo/asy-syirkah.jpg" alt="">
             </a>
-            </div>
+            </div> -->
         </div>
       </div>
     </div>
@@ -245,6 +261,14 @@
         <a class="btn btn-primary btn-lg" href="#" role="button">See More</a>
         </div>
     </div> -->
+    <div class="container-fluid" id="subtittle2">
+      <div class="col-md-8 col-md-offset-2 text-center">
+      <h3><strong>TERTARIK BERGABUNG ?</strong></h3>
+      <hr width="5%" style="border: 2px solid #1BB6AD">
+    <a class="btn btn-primary btn-lg" style="margin-right: 0; padding: 10px 100px;" href="apply" role="button">Apply</a>
+    <br><br><br><br>
+    </div>
+    </div>
         <!-- Footer -->
     <footer>
         <div class="container">
