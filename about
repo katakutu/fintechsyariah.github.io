@@ -1,4 +1,4 @@
-news.html<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -49,16 +49,16 @@ news.html<!DOCTYPE html>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="about.html">About</a>
+                        <a href="about">About</a>
                     </li>
                     <li>
-                        <a href="news.html">News & Event</a>
+                        <a href="news">News & Event</a>
                     </li>
                     <li>
-                        <a href="ideas.html">Ideas</a>
+                        <a href="ideas">Ideas</a>
                     </li>
                      <li>
-                        <a href="membership.html">Membership</a>
+                        <a href="membership">Membership</a>
                     </li>
                 </ul>
             </div>
@@ -79,30 +79,72 @@ news.html<!DOCTYPE html>
         </div>
     </header>
     <!-- Page Content -->
-   <div class="jumbotron" id="jumbotron2">
-        <div class="container">
-        <div class="col-md-12">
-            <div class="col-md-6">
-                <h3><strong>UPCOMING EVENT</strong></h3>
-                <p>Fintech Days 2018</p>
-                <div class="row">
-                    <div class="col-md-1"><h5><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span></h5></div>
-                    <div class="col-md-11"><h5> 15 Mar 2018 08.00 - 17 Mar 2018 17.00</h5></div>
-                </div>
-                 <div class="row">
-                    <div class="col-md-1"><h5><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span></h5></div>
-                    <div class="col-md-11"><h5> Hotel Novotel Makassar Grand Shayla, Jalan Chairil Anwar No.28, Sawarigading, Ujung Padang, Kota Makassar, Sulawesi Selatan.</h5></div>
-                </div>
-                 <div class="row">
-                    <div class="col-md-1"><h5><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></h5></div>
-                    <div class="col-md-11"><h5> Gratis untuk umum</h5></div>
-                </div>
-                <br>
-                <p><a class="btn btn-primary btn-lg" href="#" role="button">See Details</a>
+    <!-- Count   -->
+    <div class="container" id="subtittle">
+      <div class="col-md-8 col-md-offset-2 text-center">
+      <h3><strong>TENTANG KAMI</strong></h3>
+      <hr width="10%" style="border: 2px solid #1BB6AD">
+      <p>Asosiasi Fintech Syariah Indonesia merupakan perkumpulan berbadan hukum yang telah diakui dan disahkan oleh Kementerian Hukum dan Hak Asasi Manusia. Perkumpulan ini berisikan anggota yang terdiri dari institusi, praktisi bisnis, ulama, akademisi, penasehat hukum, dan komunitas-komunitas yang bergerak dalam bisnis jasa keuangan syariah berbasis teknologi.</p>
+      </div>
+    </div>
+     <div class="container-fluid" id="subtittle2">
+      <div class="col-md-8 col-md-offset-2 text-center">
+      <h3><strong>VISI KAMI</strong></h3>
+      <hr width="10%" style="border: 2px solid #1BB6AD">
+      <p>Menjadi solusi bagi umat dalam menghadapi sistem ekonomi ribawi melalui teknologi finansial</p>
+      </div>
+    </div>
+     <div class="container-fluid" id="subtittle3">
+      <div class="col-md-8 col-md-offset-2 text-center">
+      <h3><strong>MISI KAMI</strong></h3>
+      <hr width="10%" style="border: 2px solid #1BB6AD;">
+      <br><br>
+            <!-- <div class="row">
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis pariatur ea enim illo itaque corporis, eos facere quibusdam ratione excepturi vel beatae ducimus voluptate maxime harum! Voluptatibus quibusdam velit in.</p></div>
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis at recusandae minima vel itaque similique, fugiat quos, quo dolore beatae ratione quasi suscipit! Error optio, ea consequatur modi labore provident.</p></div>
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis quae corporis quam illo recusandae praesentium aut nihil ad id. Exercitationem ipsa soluta recusandae sed minus officiis, quod laborum! Quia, nisi.</p></div>
+            </div> -->
+      <ul>
+        <li>Menjadi solusi bagi umat dalam menghadapi sistem ekonomi ribawi melalui teknologi finansial</li>
+        <li>Memperluas inklusi keuangan syariah di Indonesia dan dunia</li>
+        <li>Mensinergikan potensi-potensi fintech berbasis syariah di Indonesia</li>
+        <li>Memberikan pengaruh terhadap regulator dan dunia akademik dalam mendukung perkembangan ekosistem fintek di Indonesia dan dunia</li>
+        <li>Menjadikan Indonesia pusat keuangan syariah berbasis teknologi di dunia</li>
+        <li>Menjadi bagian ekosistem fintek syariah dunia yang mengutamakan dan mendorong perkembangan ekonomi syariah</li>
+      </ul>
+      </div>
+    </div>
+    <div class="container-fluid" id="subtittle4">
+      <div class="col-md-8 col-md-offset-2 text-center">
+      <h3><strong>SEJARAH</strong></h3>
+      <hr width="10%" style="border: 2px solid #1BB6AD">
+      <p>Asosiasi ini diinisiasi pada bulan Oktober tahun 2017 oleh Pusat Studi Fintech Syariah Tazkia dan 8 Startup Fintech Syariah di Kantor Pusat BNI Syariah. Asosiasi ini dibentuk dengan semangat berjama’ah dalam menyatukan potensi kekuatan fintech syariah di Indonesia dalam memberikan pelayanan jasa keuangan alternatif yang bebas riba bagi umat. Asosiasi ini juga dibentuk dengan tujuan mengadvokasi para pelaku startup fintech syariah dalam menyampaikan aspirasi kepada regulator agar dapat mendukung perkembangan bisnis fintech syariah. Setelah melakukan berbagai macam konsolidasi dengan berbagai pelaku fintech syariah dan terus memperlebar jangkauannya ke berbagai wilayah, pada tanggal 8 Februari 2018 Asosiasi Fintech Syariah Indonesia (AFSI) resmi didirikan bertempat di Sekretariat AFSI di Menara MTH Lantai 10, Jl. MT Haryono Kav. 23, Tebet Timur, Jakarta Selatan.</p>
+      </div>
+    </div>
+    <div class="container-fluid" id="subtittle3">
+      <div class="col-md-8 col-md-offset-2 text-center">
+      <h3><strong>STRUKTUR ORGANISASI</strong></h3>
+      <hr width="10%" style="border: 2px solid #1BB6AD">
+      <br><br><br>
+            <div class="row">
+                <div class="col-md-4"><img src="img/photo/irvan_hermala.jpg" alt="" class="img-thumbnail" style="border: 3px solid #F3F5F9"><h3>Irvan Hermala</h3><h4>Sekretaris Jenderal</h4></div>
+                <!-- <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><h3>Nama</h3><h4>Jabatan</h4></div>
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><h3>Nama</h3><h4>Jabatan</h4></div> -->
             </div>
-            <div class="col-md-6"><img src="img/event1.png" alt=""></div>
-        </div>
-        </div>
+            <!-- <br><br><br>
+            <div class="row">
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><h3>Nama</h3><h4>Jabatan</h4></div>
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><h3>Nama</h3><h4>Jabatan</h4></div>
+                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><h3>Nama</h3><h4>Jabatan</h4></div>
+            </div> -->
+      </div>
+    </div>
+    <!-- <div class="container-fluid" id="subtittle4">
+      <div class="col-md-8 col-md-offset-2 text-center">
+      <h3><strong>WORKING GROUP & TASK FORCE</strong></h3>
+      <hr width="10%" style="border: 2px solid #1BB6AD">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, neque corrupti quod. Veritatis itaque sapiente impedit omnis culpa quaerat vitae velit eligendi odio doloremque illum corporis blanditiis adipisci, vel modi? Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+      </div>
     </div>
     <div class="container" id="post">
     <div class="row">
@@ -151,17 +193,17 @@ news.html<!DOCTYPE html>
         </div>
         <div class="col-md-12 text-center">
         <br>
-        <a class="btn btn-primary btn-lg" href="#" role="button">See More</a>
+        <a class="btn btn-primary btn-lg" href="#" role="button">See Details</a>
         </div>
-    </div>
-    <!-- Footer -->
+    </div> -->
+        <!-- Footer -->
     <footer>
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-3">
                         <div class="row">
-                           <p><a class="navbar-brand" href="home"><img src="img/logofintechtrans.png" alt=""></a></p>
+                           <p><a class="navbar-brand" href="index"><img src="img/logofintechtrans.png" alt=""></a></p>
                         </div>
                         <div class="row">
                            <p>Menara MTH Lantai 10, Jl. MT Haryono Kav. 23, Tebet Timur, Jakarta Selatan.</p>
@@ -178,7 +220,7 @@ news.html<!DOCTYPE html>
                         <div class="row">
                             <p><a href="about" target="blank">About</a></p>
                             <p><a href="news" target="blank">News & Events</a></p>
-                            <p><a href="ideas.html" target="blank">Ideas</a></p>
+                            <p><a href="ideas" target="blank">Ideas</a></p>
                             <p><a href="membership" target="blank">Membership</a></p>
                         </div>
                     </div>

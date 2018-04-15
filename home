@@ -1,4 +1,4 @@
-news.html<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -49,16 +49,16 @@ news.html<!DOCTYPE html>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="about.html">About</a>
+                        <a href="about">About</a>
                     </li>
                     <li>
-                        <a href="news.html">News & Event</a>
+                        <a href="news">News & Event</a>
                     </li>
                     <li>
-                        <a href="ideas.html">Ideas</a>
+                        <a href="ideas">Ideas</a>
                     </li>
                      <li>
-                        <a href="membership.html">Membership</a>
+                        <a href="membership">Membership</a>
                     </li>
                 </ul>
             </div>
@@ -69,42 +69,133 @@ news.html<!DOCTYPE html>
 
     <!-- Heder Jumbotron -->
     <header>
-        <div class="jumbotron" id="jumboabout1">
-        <!-- <div class="container">
-            <h3>Kolaborasi Ekosistem Teknologi Keuangan</h3>
+        <div class="jumbotron" id="jumbotron1">
+        <div class="container">
+            <h2>Kolaborasi Ekosistem Teknologi Keuangan</h2>
             <p>dari perusahaan Indonesia untuk masyarakat Indonesia</p>
             <br><br>
-            <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>  <a class="btn btn-default btn-lg" href="#" role="button">Apply for Membership</a></p>
-        </div> -->
+            <p><a class="btn btn-primary btn-lg" style="padding: 10px 30px; margin-right: 20px;" href="about" role="button">Learn more</a>  <a class="btn btn-default btn-lg" style="padding: 10px 30px; margin-right: 20px;" href="membership" role="button">Apply for Membership</a></p>
+        </div>
         </div>
     </header>
     <!-- Page Content -->
-   <div class="jumbotron" id="jumbotron2">
+    <!-- Upcoming Event -->
+    <div class="jumbotron" id="jumbotron2">
         <div class="container">
         <div class="col-md-12">
             <div class="col-md-6">
                 <h3><strong>UPCOMING EVENT</strong></h3>
-                <p>Fintech Days 2018</p>
-                <div class="row">
+                <p>Coming Soon</p>
+                <!-- <div class="row">
                     <div class="col-md-1"><h5><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span></h5></div>
-                    <div class="col-md-11"><h5> 15 Mar 2018 08.00 - 17 Mar 2018 17.00</h5></div>
+                    <div class="col-md-11"><h5> Coming Soon </h5></div>
                 </div>
                  <div class="row">
                     <div class="col-md-1"><h5><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span></h5></div>
-                    <div class="col-md-11"><h5> Hotel Novotel Makassar Grand Shayla, Jalan Chairil Anwar No.28, Sawarigading, Ujung Padang, Kota Makassar, Sulawesi Selatan.</h5></div>
+                    <div class="col-md-11"><h5> Coming Soon </h5></div>
                 </div>
                  <div class="row">
                     <div class="col-md-1"><h5><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></h5></div>
-                    <div class="col-md-11"><h5> Gratis untuk umum</h5></div>
-                </div>
+                    <div class="col-md-11"><h5> Coming Soon </h5></div>
+                </div> -->
                 <br>
-                <p><a class="btn btn-primary btn-lg" href="#" role="button">See Details</a>
+                <p><a class="btn btn-primary btn-lg" href="#" role="button">Coming Soon</a>
             </div>
             <div class="col-md-6"><img src="img/event1.png" alt=""></div>
         </div>
         </div>
     </div>
+    <!-- Count   -->
+    <div class="container">
+      <div class="col-md-8 col-md-offset-2 text-center">
+      <h3>Kami Bermitra dengan regulator dan seluruh ekosistem industri untuk mendorong masa depan keuangan berorientasi teknologi</h3>
+      <hr width="20%" style="border: 2px solid #1BB6AD">
+      </div>
+    </div>
+    <!-- <div class="container text-center" id="status">
+        <div class="col-md-12">
+            <div class="row">
+                <div class="col-md-4"><h1 style="font-size: 60px">100</h1><h3>Perusahaan  Startup</h3></div>
+                <div class="col-md-4"><h1 style="font-size: 60px">20</h1><h3>Lembaga Keuangan</h3></div>
+                <div class="col-md-4"><h1 style="font-size: 60px">4</h1><h3>Mitra Asosiasi</h3></div>
+            </div>
+        </div>
+    </div> -->
     <div class="container" id="post">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="col-xs-6 col-md-3">
+            <a href="http://www.efunding.id" target="_blank" class="thumbnail">
+              <img src="img/logo/efunding.jpg" alt="">
+            </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+            <a href="https://syarq.com/" target="_blank" class="thumbnail">
+              <img src="img/logo/syarq.jpg" alt="">
+            </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+            <a href="https://syarfi.id/" target="_blank" class="thumbnail">
+              <img src="img/logo/syarfi.jpg" alt="">
+            </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+            <a href="https://www.gruphik.co.id" target="_blank" class="thumbnail">
+              <img src="img/logo/hik.jpg" alt="">
+            </a>
+            </div>
+        </div>
+      </div>
+        <div class="row">
+        <div class="col-md-12">
+            <div class="col-xs-6 col-md-3">
+            <a href="https://www.alamisharia.co/" target="_blank" class="thumbnail">
+              <img src="img/logo/alami.jpg" alt="">
+            </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+            <a href="https://ammana.id/" target="_blank" class="thumbnail">
+              <img src="img/logo/ammana.jpg" alt="">
+            </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+            <a href="https://www.qasir.id/" target="_blank" class="thumbnail">
+              <img src="img/logo/qasir.jpg" alt="">
+            </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+            <a href="https://www.asysyirkahindonesia.com" target="_blank" class="thumbnail">
+              <img src="img/logo/asy-syirkah.jpg" alt="">
+            </a>
+            </div>
+        </div>
+        </div>
+        <div class="row">
+        <div class="col-md-12">
+            <div class="col-xs-6 col-md-3">
+            <a href="https://www.zahiraccounting.com" target="_blank" class="thumbnail">
+              <img src="img/logo/zahir.jpg" alt="">
+            </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+            <a href="https://kapitalboost.com/" target="_blank" class="thumbnail">
+              <img src="img/logo/kapitalboost.jpg" alt="">
+            </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+            <a href="https://www.ethiscrowd.com/" target="_blank" class="thumbnail">
+              <img src="img/logo/ethiscrowd.jpg" alt="">
+            </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+            <a href="https://www.danakoo.id/menu/page/syariah" class="thumbnail">
+              <img src="img/logo/danakoosyariah.jpg" alt="">
+            </a>
+            </div>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="container" id="post">
     <div class="row">
         <div class="col-md-12">
             <div class="col-xs-6 col-md-3">
@@ -153,8 +244,8 @@ news.html<!DOCTYPE html>
         <br>
         <a class="btn btn-primary btn-lg" href="#" role="button">See More</a>
         </div>
-    </div>
-    <!-- Footer -->
+    </div> -->
+        <!-- Footer -->
     <footer>
         <div class="container">
             <div class="row">
@@ -178,7 +269,7 @@ news.html<!DOCTYPE html>
                         <div class="row">
                             <p><a href="about" target="blank">About</a></p>
                             <p><a href="news" target="blank">News & Events</a></p>
-                            <p><a href="ideas.html" target="blank">Ideas</a></p>
+                            <p><a href="ideas" target="blank">Ideas</a></p>
                             <p><a href="membership" target="blank">Membership</a></p>
                         </div>
                     </div>
