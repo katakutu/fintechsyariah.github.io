@@ -228,5 +228,20 @@ footer hr{
     .img-portfolio {
         margin-bottom: 15px;
     }
-
+    #jumbotron2 .col-md-6:last-child {
+        padding-left: 0px;
+        padding-right: 0px;
+        background-color: #fff;
+    }
+    #jumbotron2 .col-md-6 img{
+        width: 98%;
+        height: auto;
+    }
+    /*Button Custom*/
+    .btn {
+        padding: 10px 30px;
+        font-size: 14px;
+        margin-right: 0px;
+        margin-bottom: 20px;
+      }
 }
