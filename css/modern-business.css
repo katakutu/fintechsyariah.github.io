@@ -36,6 +36,21 @@ body {
 .navbar-toggle {
     margin-top: 20px;
 }
+
+.carousel-caption-custom {
+    font-size: 35px;
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 150px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+}
+
 #subtittle p,
 #subtittle2 p,
 #subtittle4 p
@@ -99,6 +114,7 @@ body {
 /* Jumbotron */
 .jumbotron {
     background-color: #fff;
+    margin-bottom: 0;
 }
 #jumbotron1 {
     padding-top: 220px;
@@ -112,6 +128,7 @@ body {
 #jumbotron2 .col-md-6:last-child {
     padding-left: 100px;
     background-color: #fff;
+    margin-bottom: 0;
 }
 #jumboabout1 {
     padding-top: 220px;
@@ -236,6 +253,19 @@ footer hr{
     #jumbotron2 .col-md-6 img{
         width: 98%;
         height: auto;
+    }
+    .carousel-caption-custom {
+        font-size: 25px;
+        position: absolute;
+        right: 15%;
+        bottom: 20px;
+        left: 15%;
+        z-index: 10;
+        padding-top: 20px;
+        padding-bottom: 150px;
+        color: #fff;
+        text-align: center;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
     }
     /*Button Custom*/
     .btn {
