@@ -131,11 +131,11 @@ body {
     margin-bottom: 0;
 }
 #jumboabout1 {
-    padding-top: 220px;
-    padding-bottom: 200px;
+    padding-top: 100px;
+    padding-bottom: 80px;
     margin-bottom: 0;
     background-color: #fff;
-    background-image: url("../img/jumboabout1.jpg");
+    background-image: url("../img/jumboabout2.jpg");
     background-size: cover;
     color: #fff;
 }
