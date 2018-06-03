@@ -5,7 +5,7 @@
                 <div class="col-md-12">
                     <div class="col-md-3">
                         <div class="row">
-                            <p><a href="http://www.fintechsyariah.org"><img src="img/logofintechtrans.png" alt=""></a></p>
+                            <p><a href="http://fintechsyariah.org"><img src="img/logofintechtrans.png" alt=""></a></p>
                         </div>
                         <div class="row">
                             <p>Menara MTH Lantai 10, Jl. MT Haryono Kav. 23, Tebet Timur, Jakarta Selatan.</p>
