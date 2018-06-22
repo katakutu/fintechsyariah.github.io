@@ -128,7 +128,7 @@
 <hr width="10%" style="border: 2px solid #1BB6AD">
 <br><br>
 <div class="row text-left">
-        <div class="col-md-3"><h4 style="color: #1BB6AD"><strong>Februari 2018</strong></h4></div>
+        <div class="col-md-3"><h4 style="color: #1BB6AD"><strong>Juli 2018</strong></h4></div>
         <div class="col-md-8 text-left">
             <div class="panel-group" id="accordion">
                 <div class="panel panel-default">
@@ -163,7 +163,7 @@
             </div>
         </div>
 <div class="row text-left">
-        <div class="col-md-3"><h4 style="color: #1BB6AD"><strong>Maret 2018</strong></h4></div>
+        <div class="col-md-3"><h4 style="color: #1BB6AD"><strong>Agustus 2018</strong></h4></div>
         <div class="col-md-8 text-left">
             <div class="panel-group" id="accordion">
                 <div class="panel panel-default">
@@ -198,7 +198,7 @@
             </div>
         </div>
 <div class="row text-left">
-        <div class="col-md-3"><h4 style="color: #1BB6AD"><strong>April 2018</strong></h4></div>
+        <div class="col-md-3"><h4 style="color: #1BB6AD"><strong>September 2018</strong></h4></div>
         <div class="col-md-8 text-left">
             <div class="panel-group" id="accordion">
                 <div class="panel panel-default">
@@ -233,7 +233,7 @@
             </div>
         </div>
 <div class="row text-left">
-        <div class="col-md-3"><h4 style="color: #1BB6AD"><strong>Mei 2018</strong></h4></div>
+        <div class="col-md-3"><h4 style="color: #1BB6AD"><strong>Oktober 2018</strong></h4></div>
         <div class="col-md-8 text-left">
             <div class="panel-group" id="accordion">
                 <div class="panel panel-default">
