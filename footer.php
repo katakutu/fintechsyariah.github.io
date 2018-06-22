@@ -15,7 +15,7 @@
                         <div class="row">
                             <h4>Kantor</h4>
                             <p>(022) 812 345 67</p>
-                            <p>fintechsyariah@gmail.com</p>
+                            <p>admin@fintechsyariah.org</p>
                         </div>
                     </div>
                     <div class="col-md-3">
