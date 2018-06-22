@@ -13,7 +13,7 @@
                     </div>
                         <div class="col-md-3">
                         <div class="row">
-                            <h4>Kantor</h4>
+                            <h4>Kontak</h4>
                             <p>(022) 812 345 67</p>
                             <p>admin@fintechsyariah.org</p>
                         </div>
