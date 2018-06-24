@@ -114,7 +114,7 @@
                     <h4><u>Wakil Sekretaris</u></h4><h4>Budiman Indrajaya</h4>
                 </div>
                 <div class="col-md-6">
-                    <h4><u>Wakil Sekretaris</u></h4><h4>Riki Maulana</h4>
+                    <h4><u>Wakil Bendahara</u></h4><h4>Riki Maulana</h4>
                 </div>
             </div>
         </div>

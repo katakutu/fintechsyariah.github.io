@@ -155,19 +155,24 @@
                 </a>
             </div>
             <div class="col-xs-6 col-md-3">
-                <a href="http://ijabqabul.id/" target="_blank" class="thumbnail">
-                    <img src="img/logo/ijabqabul.jpg" alt="">
+                <a href="https://www.danasyariah.id/" target="_blank" class="thumbnail">
+                    <img src="img/logo/danasyariah.jpg" alt="">
                 </a>
             </div>
             <div class="col-xs-6 col-md-3">
-                <a href="https://kandang.in" target="_blank" class="thumbnail">
-                    <img src="img/logo/kandangin.png" alt="">
+                <a href="http://ijabqabul.id/" target="_blank" class="thumbnail">
+                    <img src="img/logo/ijabqabul.jpg" alt="">
                 </a>
             </div>
         </div>
     </div>
     <div class="row">
         <div class="col-md-12">
+        <div class="col-xs-6 col-md-3">
+                <a href="https://kandang.in" target="_blank" class="thumbnail">
+                    <img src="img/logo/kandangin.png" alt="">
+                </a>
+            </div>
             <div class="col-xs-6 col-md-3">
                 <a href="https://www.oorth.me/" target="_blank" class="thumbnail">
                     <img src="img/logo/oorth.png" alt="">
@@ -183,15 +188,15 @@
                     <img src="img/logo/tamasia.jpg" alt="">
                 </a>
             </div>
-            <div class="col-xs-6 col-md-3">
-                <a href="http://goolive.id/" target="_blank" class="thumbnail">
-                    <img src="img/logo/goolive.jpg" alt="">
-                </a>
-            </div>
         </div>
     </div>
     <div class="row">
         <div class="col-md-12">
+        <div class="col-xs-6 col-md-3">
+                <a href="http://goolive.id/" target="_blank" class="thumbnail">
+                    <img src="img/logo/goolive.jpg" alt="">
+                </a>
+            </div>
             <div class="col-xs-6 col-md-3">
                 <a href="https://invesproperti.id/" target="_blank" class="thumbnail">
                     <img src="img/logo/invesproperti.jpg" alt="">
@@ -207,11 +212,6 @@
                     <img src="img/logo/shariamarket.jpg" alt="">
                 </a>
             </div>
-            <!-- <div class="col-xs-6 col-md-3">
-                <a href="http://goolive.id/" target="_blank" class="thumbnail">
-                    <img src="img/logo/goolive.jpg" alt="">
-                </a>
-            </div> -->
         </div>
     </div>
 </div>
