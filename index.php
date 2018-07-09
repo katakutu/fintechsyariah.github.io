@@ -214,6 +214,30 @@
             </div>
         </div>
     </div>
+    <div class="row">
+        <div class="col-md-12">
+        <div class="col-xs-6 col-md-3">
+                <a href="https://www.kerjasama.com/" target="_blank" class="thumbnail">
+                    <img src="img/logo/kerjasama.jpg" alt="">
+                </a>
+            </div>
+            <!-- <div class="col-xs-6 col-md-3">
+                <a href="https://invesproperti.id/" target="_blank" class="thumbnail">
+                    <img src="img/logo/invesproperti.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+                <a href="https://www.angsur.id/" target="_blank" class="thumbnail">
+                    <img src="img/logo/angsur.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+                <a href="http://www.shariamarket.com" target="_blank" class="thumbnail">
+                    <img src="img/logo/shariamarket.jpg" alt="">
+                </a>
+            </div> -->
+        </div>
+    </div>
 </div>
     
 <!-- Upcoming Event -->
