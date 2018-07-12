@@ -17,7 +17,7 @@
                 <img src="img/slider1.jpg" alt="..." style="background-size: cover; max-width: none">
             <div class="carousel-caption-custom">
                 <h1>Asosiasi Fintech Syariah Indonesia</h1><br>
-                <h3>Kolaborasi startup, institusi, akademisi,komunitas, dan pakar praktisi medorong
+                <h3>Kolaborasi startup, institusi, akademisi,komunitas, dan pakar praktisi mendorong
                 Teknologi Keuangan Syariah</h3>
             </div>
             </div>
@@ -25,14 +25,14 @@
                 <img src="img/slider2.jpg" alt="..." style="background-size: cover; max-width: none">
             <div class="carousel-caption-custom">
                 <h1>Fintech Syariah</h1><br>
-                <h3>Akselerasi Kemerataan dan Keadilan Ekonomi Melaui Inovasi Finansial Teknologi</h3>
+                <h3>Akselerasi Kemerataan dan Keadilan Ekonomi Melalui Inovasi Finansial Teknologi</h3>
             </div>
             </div>
             <div class="item">
                 <img src="img/slider3.jpg" alt="..." style="background-size: cover; max-width: none">
             <div class="carousel-caption-custom">
                 <h1>Mitra Pemerintah & Akademisi</h1><br>
-                <h3>Support Sistem bagi Pemerintah, Regulatordan  Akademisi Memajukan Ekonomi Syariah dan Fintech di Indonesia</h3>
+                <h3>Support Sistem bagi Pemerintah, Regulator dan  Akademisi Memajukan Ekonomi Syariah dan Fintech di Indonesia</h3>
             </div>
             </div>
         </div>
