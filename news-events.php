@@ -4,7 +4,7 @@
 <header>
     <div class="jumbotron" id="jumboabout1">
         <div class="container text-center">
-            <h2>News & Events</h2>
+            <h2>NEWS & EVENTS</h2>
             <hr width="10%" style="border: 2px solid rgb(255, 255, 255)">
         </div>
     </div>
