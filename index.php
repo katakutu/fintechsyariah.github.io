@@ -221,17 +221,17 @@
                     <img src="img/logo/kerjasama.jpg" alt="">
                 </a>
             </div>
-            <!-- <div class="col-xs-6 col-md-3">
-                <a href="https://invesproperti.id/" target="_blank" class="thumbnail">
-                    <img src="img/logo/invesproperti.jpg" alt="">
+            <div class="col-xs-6 col-md-3">
+                <a href="http://laribaconsulting.com/" target="_blank" class="thumbnail">
+                    <img src="img/logo/lariba.jpg" alt="">
                 </a>
             </div>
-            <div class="col-xs-6 col-md-3">
+            <!-- <div class="col-xs-6 col-md-3">
                 <a href="https://www.angsur.id/" target="_blank" class="thumbnail">
                     <img src="img/logo/angsur.jpg" alt="">
                 </a>
-            </div>
-            <div class="col-xs-6 col-md-3">
+            </div> -->
+            <!-- <div class="col-xs-6 col-md-3">
                 <a href="http://www.shariamarket.com" target="_blank" class="thumbnail">
                     <img src="img/logo/shariamarket.jpg" alt="">
                 </a>
